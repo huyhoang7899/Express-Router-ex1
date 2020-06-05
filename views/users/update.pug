@@ -1,0 +1,9 @@
+h1 Update
+
+form(action="/users/update" method="POST")
+	input(name="id" type="hidden" value=user.id)
+	label Name 
+	input(name="name" type="text" value=user.name)
+	label Age 
+	input(name="age" type="number" value=user.age)
+	button Update

@@ -1,0 +1,26 @@
+{
+  "books": [
+    {
+      "title": "Đắc Nhân Tâm ",
+      "description": "Dale Carnegie",
+      "id": "P0bvW9E3I"
+    },
+    {
+      "title": "Nhà Đầu Tư Tài Ba",
+      "description": "Benjamin Graham",
+      "id": "8Tm39FuzT"
+    }
+  ],
+  "users": [
+    {
+      "name": "Huy Hoang",
+      "age": "18",
+      "id": "ZXbr4GfW7"
+    },
+    {
+      "name": "My Phung",
+      "age": "18",
+      "id": "BkECr8OZt"
+    }
+  ]
+}
